@@ -114,7 +114,7 @@ AeroSpace starts at login and auto-reloads the config when saved.
 
 - **Terminals** (Ghostty, Terminal, iTerm2, WezTerm) → `T`
 - **IDEs** (VS Code, Cursor, Zed, VSCodium, Windsurf, Antigravity, T3 Code, iPhone Simulator) → `I`
-- **Browsers** (Safari, Chrome, Brave, Arc, Chromium, Zen) → `B`
+- **Browsers** (Safari, Chrome, Brave, Arc, Dia, Chromium, Zen) → `B`
 - **Notes** (Apple Notes, Obsidian, Zotero, Notion, Bear, Notability, Evernote, OneNote) → `N`
 - **Socials** (WhatsApp, Telegram, Discord, Slack, Signal, WeChat, FaceTime) → `S`
 - **AI / Office** (Claude, ChatGPT, Gemini, Copilot, Cline, OpenCode, Ollama, Word, Excel, PowerPoint, Outlook) → `A`
